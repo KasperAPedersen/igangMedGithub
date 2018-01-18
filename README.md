@@ -1,5 +1,3 @@
-# igangMedGithub
-
 # **Guide til at lave et respository** #
 1. Gå til https://github.com/
 1. Klik **'Start a project'**
