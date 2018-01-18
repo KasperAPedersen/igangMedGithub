@@ -20,4 +20,4 @@ console.log("Hello World!");
 
 ## **Forklaring** ##
 
-console.log tager inputtet 'Hello World!' og printer det i konsollen.
+```console.log``` tager inputtet ```'Hello World!'``` og printer det i konsollen.
