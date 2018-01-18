@@ -1,6 +1,6 @@
 # igangMedGithub
 
-#**Hvordan laver man et respository?**#
+# **Hvordan laver man et respository?** #
 1. Gå til https://github.com/
 1. Klik 'Start a project'
 1. Skriv navnet på dit respository
