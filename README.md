@@ -10,8 +10,6 @@
 5. Klik **'Create repository'**
 
 # **Console.log** #
-## **Kode** ##
-
 ```
 console.log("Hello World!");
 ```
