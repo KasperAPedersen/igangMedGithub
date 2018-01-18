@@ -10,7 +10,7 @@
 5. Klik **'Create repository'**
 
 # **Console.log** #
-```console.log("Hello World!");```
+``` console.log("Hello World!"); ```
 
 ## **Forklaring** ##
 
