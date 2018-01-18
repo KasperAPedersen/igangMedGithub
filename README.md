@@ -1,4 +1,4 @@
-# **Guide til at lave et repository** #
+# **Guide til at oprette et repository** #
 1. Gå til https://github.com/
 1. Klik **'Start a project'**
 1. Skriv navnet på dit repository
@@ -9,9 +9,10 @@
 * Du kan adde en license (Behøver ikke at blive udfyldt)
 7. Klik **'Create repository'**
 
-# **Console.log** #
+# **Console.log forklaring** #
+
+## **Kode** ##
 ```console.log("Hello World!");```
 
 ## **Forklaring** ##
-
 ```console.log``` tager inputtet ```'Hello World!'``` og printer det i konsollen.
