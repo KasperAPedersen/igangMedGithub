@@ -5,7 +5,7 @@
 * Du kan skrive en description (Behøver ikke at blive udfyldt)
 4. Vælg om det skal være **privat** eller **public**
 * Vælg om der skal være en readme fil
-* Du kan adde .gitignore (Behøver ikke at blive udfyldt)
+* Du skal vælge **Node** som .gitignore
 * Du kan adde en license (Behøver ikke at blive udfyldt)
 5. Klik **'Create repository'**
 
